@@ -11,7 +11,10 @@ local codes = {
     "RELEASE",
     "DELAY",
     "70MVISITS",
-    "600KLIKES"
+    "600KLIKES",
+    "300KPLAYERS",
+    "100MVISITS",
+    "800KLIKES"
 }
 
 local codesEvent = game:GetService("ReplicatedStorage"):WaitForChild("Networking"):WaitForChild("CodesEvent")
