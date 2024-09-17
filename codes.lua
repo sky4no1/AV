@@ -1,4 +1,5 @@
 local codes = {
+    "THXFOR1MLIKES",
     "AV500KLIKES",
     "400KLIKES",
     "300KLIKES",
