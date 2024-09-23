@@ -1,4 +1,6 @@
 local codes = {
+    "SLAYER",
+    "LATEUPDATESORRY",
     "THXFOR1MLIKES",
     "AV500KLIKES",
     "400KLIKES",
