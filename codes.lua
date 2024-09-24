@@ -2,6 +2,7 @@ local codes = {
     "SLAYER",
     "LATEUPDATESORRY",
     "THXFOR1MLIKES",
+    "ROST10K"
 }
 
 local codesEvent = game:GetService("ReplicatedStorage"):WaitForChild("Networking"):WaitForChild("CodesEvent")
