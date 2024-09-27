@@ -1,6 +1,7 @@
 local codes = {
     "SLAYER",
     "LATEUPDATESORRY",
+    "THXFOR1MLIKES",
     "TIKTOK50K",
     "ROST10K"
 }
